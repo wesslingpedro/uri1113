@@ -1,0 +1,14 @@
+C:\Users\wessl\source\repos\uri1113\uri1113\bin\Debug\net8.0\uri1113.exe
+C:\Users\wessl\source\repos\uri1113\uri1113\bin\Debug\net8.0\uri1113.deps.json
+C:\Users\wessl\source\repos\uri1113\uri1113\bin\Debug\net8.0\uri1113.runtimeconfig.json
+C:\Users\wessl\source\repos\uri1113\uri1113\bin\Debug\net8.0\uri1113.dll
+C:\Users\wessl\source\repos\uri1113\uri1113\bin\Debug\net8.0\uri1113.pdb
+C:\Users\wessl\source\repos\uri1113\uri1113\obj\Debug\net8.0\uri1113.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wessl\source\repos\uri1113\uri1113\obj\Debug\net8.0\uri1113.AssemblyInfoInputs.cache
+C:\Users\wessl\source\repos\uri1113\uri1113\obj\Debug\net8.0\uri1113.AssemblyInfo.cs
+C:\Users\wessl\source\repos\uri1113\uri1113\obj\Debug\net8.0\uri1113.csproj.CoreCompileInputs.cache
+C:\Users\wessl\source\repos\uri1113\uri1113\obj\Debug\net8.0\uri1113.dll
+C:\Users\wessl\source\repos\uri1113\uri1113\obj\Debug\net8.0\refint\uri1113.dll
+C:\Users\wessl\source\repos\uri1113\uri1113\obj\Debug\net8.0\uri1113.pdb
+C:\Users\wessl\source\repos\uri1113\uri1113\obj\Debug\net8.0\uri1113.genruntimeconfig.cache
+C:\Users\wessl\source\repos\uri1113\uri1113\obj\Debug\net8.0\ref\uri1113.dll
